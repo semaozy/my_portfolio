@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-tech-dark text-white; /* Varsayılan karanlık tema */
+}
+html {
+  scroll-behavior: smooth;
+}
