@@ -5,7 +5,7 @@ const experiences = [
     company: "AkademiQ.Ai",
     role: "Proje Yönetimi Stajyeri",
     period: "2026 – Devam",
-    type: "Yönetim", // Kategori etiketi (İsteğe bağlı görselleştirme için)
+    type: "Yönetim", 
     description: [
       "Eğitim programlarının ve etkinliklerin uçtan uca koordinasyonu.",
       "Operasyonel süreçlerin takibi ve proje yönetim araçları ile verimlilik analizi."
